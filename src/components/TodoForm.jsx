@@ -43,7 +43,7 @@ const ToDoForm = ({setTodos,todos}) => {
          settodoValue('')
         
      }} >
-        <i class="fa-solid fa-plus"></i>
+        <i className="fa-solid fa-plus"></i>
      </button>
     </form>
   );
